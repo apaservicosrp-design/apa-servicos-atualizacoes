@@ -1,0 +1,9 @@
+﻿{
+    "product":  "APA Servicos - Gestao",
+    "version":  "0.9.4",
+    "installer_url":  "https://github.com/apaservicosrp-design/apa-servicos-atualizacoes/releases/download/v0.9.4/APA_Servicos_Gestao_Setup_v0_9_4.exe",
+    "sha256":  "c677c272b1c87f99972e8f8121f3614dbc5f18d51130b3909111615a3f79eaad",
+    "published_at":  "2026-07-18",
+    "mandatory":  false,
+    "notes":  "Primeira versão publicada do Sistema APA Serviços, com Central de Atualizações, backup automático antes da instalação, verificação SHA-256 e preservação dos dados."
+}
