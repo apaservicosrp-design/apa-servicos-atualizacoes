@@ -1,0 +1,9 @@
+﻿{
+    "product":  "APA Servicos - Gestao",
+    "version":  "0.9.5",
+    "installer_url":  "https://github.com/apaservicosrp-design/apa-servicos-atualizacoes/releases/download/v0.9.5/APA_Servicos_Gestao_Setup_v0_9_5.exe",
+    "sha256":  "67468a3a703a0e959cb5460194f06e43878265df9bc2698d645f3afb19935355",
+    "published_at":  "2026-07-18",
+    "mandatory":  false,
+    "notes":  "Alertas de manutencao, retornos aos clientes, mensagens para WhatsApp, historico de contatos e calculo automatico da proxima manutencao."
+}
