@@ -2,7 +2,7 @@
   "product": "APA Servicos - Gestao",
   "version": "1.0.4",
   "installer_url": "https://github.com/apaservicosrp-design/apa-servicos-atualizacoes/releases/download/v1.0.4/APA_Servicos_Gestao_Setup_v1_0_4.exe",
-  "sha256":"CFFD48318FAD7E971E02F5397D89E88E5866C51C214FDA1206D57370C974FAB3",
+  "sha256": "CFFD48318FAD7E971E02F5397D89E88E5866C51C214FDA1206D57370C974FAB3",
   "published_at": "2026-07-19",
   "mandatory": false,
   "notes": "Central de lembretes, WhatsApp, preferencias de manutencao, periodicidade por equipamento e calculo automatico da proxima manutencao."
