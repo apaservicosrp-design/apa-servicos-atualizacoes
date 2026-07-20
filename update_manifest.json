@@ -1,9 +1,9 @@
 {
     "product":  "APA Servicos - Gestao",
-    "version":  "1.0.6",
-    "installer_url":  "https://github.com/apaservicosrp-design/apa-servicos-atualizacoes/releases/download/v1.0.6/APA_Servicos_Gestao_Setup_v1_0_6.exe",
-    "sha256":  "9ED3573BCAFD61AB69A5B664B1AE19C53156FA4C0CD63FE1DBA52C96A3FAB288",
+    "version":  "1.0.7",
+    "installer_url":  "https://github.com/apaservicosrp-design/apa-servicos-atualizacoes/releases/download/v1.0.7/APA_Servicos_Gestao_Setup_v1_0_7.exe",
+    "sha256":  "CBFD9563209C473ECD59C1FA76A4B1E28731466D573EAAC17C32E95DF7A9DC85",
     "published_at":  "2026-07-20",
     "mandatory":  false,
-    "notes":  "Correcao definitiva da abertura automatica do instalador usando auxiliar nativo do Windows, sem PowerShell."
+    "notes":  "Correcao definitiva: o instalador e iniciado diretamente antes do fechamento do APA Servicos, sem PowerShell, VBScript ou processo auxiliar."
 }
