@@ -1,8 +1,8 @@
 {
     "product":  "APA Servicos - Gestao",
-    "version":  "1.0.10",
-    "installer_url":  "https://github.com/apaservicosrp-design/apa-servicos-atualizacoes/releases/download/v1.0.10/APA_Servicos_Gestao_Setup_v1_0_10.exe",
-    "sha256":  "26083A521F2447F3BC983996A24E042378537733A30DE66A1E1F46B925E09A46",
+    "version":  "1.1.2",
+    "installer_url":  "https://github.com/apaservicosrp-design/apa-servicos-atualizacoes/releases/download/v1.1.2/APA_Servicos_Gestao_Setup_v1_1_2.exe",
+    "sha256":  "7AA74446DBA2029AC5F7687D308BC3B5B4DCC05A4AB5DBDA97FA371A825B5894",
     "published_at":  "2026-07-20",
     "mandatory":  false,
     "notes":  "Atualizador automatico corrigido, instalador simplificado e geracao automatica do manifesto."
